@@ -6,3 +6,4 @@ Ok, maybe not literally a single click. How to reproduce:
    The notebook will download a 3.14 GB folder to 'My Drive/ColabExperiments1921'
 4. Switch to GPU under 'Runtime' -> 'Change runtime type'
 5. Run all cells
+6. Enter auth code as prompted
