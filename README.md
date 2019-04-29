@@ -1,4 +1,4 @@
-Ok, maybe not literally a single click. How to reproduce:
+Ok, not literally a single click. How to reproduce:
 
 1. Be logged in with Google.
 2. Go to: https://colab.research.google.com/github/albertwujj/gptransfer/blob/master/gpshare.ipynb
